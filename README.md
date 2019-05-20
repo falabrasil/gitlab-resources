@@ -8,7 +8,7 @@ Localização oficial: https://gitlab.com/falabrasil
 ## Árvore de Grupos do GitLab
 <!--begin=html--> 
 <details>
-<summary><b>Clique para expandir</b></summary>
+<summary>Clique para expandir</summary>
 <table>
 <tbody>
 	<td>
@@ -52,6 +52,8 @@ Localização oficial: https://gitlab.com/falabrasil
 
 ## Corpora de Áudio Transcrito
 
+<details>
+<summary>Clique para expandir</summary>
 ### Constituição Federal
 Localização: https://gitlab.com/fb-audio-corpora/constituicao16k
 
@@ -89,6 +91,7 @@ utilizada foi de 16.000 Hz e cada amostra foi representada com 16 bits. O
 ambiente não foi controlado, existindo a presença de ruído nas gravações, com
 isso busca-se caracterizar ambientes onde software de reconhecimento de voz são
 utilizados.
+</details>
 
 __Grupo FalaBrasil (2019)__    
 __Universidade Federal do Pará (UFPA)__    
