@@ -3,12 +3,12 @@
 Localização oficial: https://gitlab.com/falabrasil
 
 - [Árvore de Grupos do GitLab](#Árvore-de-Grupos-do-GitLab)   
-- [Another](#Another)
+- [Corpora de Áudio Transcrito](#Corpora-de-Áudio-Transcrito)
 
 ## Árvore de Grupos do GitLab
 <!--begin=html--> 
 <details>
-<summary><b>FalaBrasil's GitLab Tree Structure</b></summary>
+<summary><b>Clique para expandir</b></summary>
 <table>
 <tbody>
 	<td>
@@ -50,7 +50,45 @@ Localização oficial: https://gitlab.com/falabrasil
 </details>
 <!--end=html-->  
 
-## Another
+## Corpora de Áudio Transcrito
+
+### Constituição Federal
+Localização: https://gitlab.com/fb-audio-corpora/constituicao16k
+
+> Corpus de voz da Constituição Federal. Os arquivos de áudio foram reamostrados
+para 16.000 Hz com 16 bits. Em seguida, os arquivos foram segmentados em
+arquivos menores, com aproximadamente 30 segundos de duração cada, e por fim
+transcritos. Atualmente, o corpus é composto por um único locutor do sexo
+masculino.  Os arquivos totalizam aproximadamente 9 horas de áudio. O ambiente
+de gravação utilizado é bastante controlado.
+
+### Código de Defesa do Consumidor
+Localização: https://gitlab.com/fb-audio-corpora/codigodefesaconsumidor16k
+
+### LaPS Mail
+Localização: https://gitlab.com/fb-audio-corpora/lapsmail16k
+
+> Corpus de voz que representa o contexto de uma aplicação de correio 
+eletrônico, utilizado para a avaliação de sistemas LVCSR para tarefas de comando
+e controle. Atualmente, composto por 86 sentenças (43 comando e 43 nomes
+próprios) gravados por 25 voluntários (21 homens e 4 mulheres), o que
+corresponde a 84 minutos minutos de áudio com um vocabulário de 95 palavras. As
+gravações foram realizadas com um microfone de alta qualidade (Shure PG30) em um
+ambiente de gravação não controlado.
+
+### LaPS Benchmark
+Localização: https://gitlab.com/fb-audio-corpora/lapsbm16k
+
+> Corpus de voz utilizado para avaliação de desempenho de sistemas LVCSR.
+Atualmente composto por 700 frases, o corpus possui 35 locutores com 20 frases
+cada, sendo 25 homens e 10 mulheres, o que corresponde a aproximadamente 54
+minutos de áudio. Este corpus será expandido de forma a ter 50 locutores com a
+mesma distribuição, totalizando 1.000 frases. Todas as gravações foram
+realizadas em computadores utilizando microfones comuns. A taxa de amostragem
+utilizada foi de 16.000 Hz e cada amostra foi representada com 16 bits. O
+ambiente não foi controlado, existindo a presença de ruído nas gravações, com
+isso busca-se caracterizar ambientes onde software de reconhecimento de voz são
+utilizados.
 
 __Grupo FalaBrasil (2019)__    
 __Universidade Federal do Pará (UFPA)__    
