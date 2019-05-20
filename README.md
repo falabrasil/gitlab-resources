@@ -8,6 +8,8 @@ Localização oficial: https://gitlab.com/falabrasil
     - [Código de Defesa do Consumidor](#código-de-defesa-do-consumidor)
     - [LaPS Mail](#laps-mail)
     - [LaPS Benchmark](#laps-benchmark)
+- [Tutoriais para Treino de Modelos Acústicos](#tutoriais-para-treino-de-modelos-acústicos)
+- [Tutoriais para Treino de Modelos de Linguagem](#tutoriais-para-treino-de-modelos-de-linguagem)
 
 ## Árvore de Grupos do GitLab
 <!--begin=html--> 
@@ -55,6 +57,7 @@ Localização oficial: https://gitlab.com/falabrasil
 <!--end=html-->  
 
 ## Corpora de Áudio Transcrito
+Localização: https://gitlab.com/fb-audio-corpora
 
 <details>
 <summary>Clique para expandir</summary>
@@ -97,6 +100,12 @@ ambiente não foi controlado, existindo a presença de ruído nas gravações, c
 isso busca-se caracterizar ambientes onde software de reconhecimento de voz são
 utilizados.
 </details>
+
+## Tutoriais para Treino de Modelos Acústicos
+Localização: https://gitlab.com/fb-asr/fb-am-tutorial
+
+## Tutoriais para Treino de Modelos de Linguagem
+Localização: https://gitlab.com/fb-asr/fb-lm-tutorial
 
 __Grupo FalaBrasil (2019)__    
 __Universidade Federal do Pará (UFPA)__    
