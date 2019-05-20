@@ -2,8 +2,8 @@
 
 Localização oficial: https://gitlab.com/falabrasil
 
-[Árvore de Grupos do GitLab](#Árvore-de-Grupos-do-GitLab)
-[Another](#Another)
+- [Árvore de Grupos do GitLab](#Árvore-de-Grupos-do-GitLab)   
+- [Another](#Another)
 
 ## Árvore de Grupos do GitLab
 <!--begin=html--> 
