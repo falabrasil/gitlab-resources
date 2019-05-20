@@ -54,6 +54,7 @@ Localização oficial: https://gitlab.com/falabrasil
 
 <details>
 <summary>Clique para expandir</summary>
+
 ### Constituição Federal
 Localização: https://gitlab.com/fb-audio-corpora/constituicao16k
 
