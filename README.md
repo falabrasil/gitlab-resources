@@ -107,6 +107,8 @@ Localização: https://gitlab.com/fb-asr/fb-am-tutorial
 ## Tutoriais para Treino de Modelos de Linguagem
 Localização: https://gitlab.com/fb-asr/fb-lm-tutorial
 
+
+### Copyright?
 __Grupo FalaBrasil (2019)__    
 __Universidade Federal do Pará (UFPA)__    
 Cassio Batista - cassio.batista.13@gmail.com
