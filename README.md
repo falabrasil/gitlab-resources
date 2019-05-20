@@ -3,6 +3,8 @@
 https://gitlab.com/falabrasil
 
 <!--begin=html--> 
+<details>
+<summary><b>FalaBrasil's GitLab Tree Structure</b></summary>
 <table>
 <tbody>
 <td>
@@ -41,6 +43,7 @@ https://gitlab.com/falabrasil
 </td>
 </tbody>
 </table>
+</details>
 <!--end=html--> 
 
 __Grupo FalaBrasil (2019)__    
