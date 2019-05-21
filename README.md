@@ -111,14 +111,14 @@ utilizados.
 ## Reconhecimento Automático de Fala
 Localização: https://gitlab.com/fb-asr
 
-### recursos Prontos
+### Recursos prontos
 Localização: https://gitlab.com/fb-asr/fb-asr-resources
 - CMU Sphinx: https://gitlab.com/fb-asr/fb-asr-resources/cmusphinx-resources
 - Kaldi:      https://gitlab.com/fb-asr/fb-asr-resources/kaldi-resources
 - HTK:        https://gitlab.com/fb-asr/fb-asr-resources/htk-resources
 - DeepSpeech: https://gitlab.com/fb-asr/fb-asr-resources/deepspeech-resources
 
-### tutoriais para Treino de Modelos Acústicos
+### Tutoriais para treino de modelos acústicos
 Localização: https://gitlab.com/fb-asr/fb-am-tutorial
 - CMU Sphinx: https://gitlab.com/fb-asr/fb-am-tutorial/cmusphinx-am-train
 - Kaldi:      https://gitlab.com/fb-asr/fb-am-tutorial/kaldi-am-train
