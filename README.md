@@ -118,9 +118,15 @@ Localização: https://gitlab.com/fb-asr/fb-asr-resources
 
 ### Tutoriais para Treino de Modelos Acústicos
 Localização: https://gitlab.com/fb-asr/fb-am-tutorial
+- CMU Sphinx: https://gitlab.com/fb-asr/fb-am-tutorial/cmusphinx-am-train
+- Kaldi:      https://gitlab.com/fb-asr/fb-am-tutorial/kaldi-am-train
+- HTK:        https://gitlab.com/fb-asr/fb-am-tutorial/htk-am-train
+- DeepSpeech: https://gitlab.com/fb-asr/fb-am-tutorial/deepspeech-am-train
 
 ### Tutoriais para Treino de Modelos de Linguagem
 Localização: https://gitlab.com/fb-asr/fb-lm-tutorial
+- HTK:   https://gitlab.com/fb-asr/fb-lm-tutorial/htk-lm-train
+- SRILM: https://gitlab.com/fb-asr/fb-lm-tutorial/srilm-lm-train
 </details>
 
 __Grupo FalaBrasil (2019)__    
