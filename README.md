@@ -3,6 +3,8 @@
 Localização oficial: https://gitlab.com/falabrasil
 
 ## Sumário
+**NOTA**: subseções só serão clicáveis se estiverem expandidas mais abaixo (botões "clique para expandir")
+
 - [Árvore de Grupos do Gitlab](#árvore-de-grupos-do-gitLab)   
 - [Corpora de Áudio Transcrito](#corpora-de-áudio-transcrito)
     - [Constituição Federal](#constituição-federal)
@@ -13,6 +15,8 @@ Localização oficial: https://gitlab.com/falabrasil
     - [Recursos Prontos](#recursos-prontos)
     - [Tutoriais para Treino de Modelos Acústicos](#tutoriais-para-treino-de-modelos-acústicos)
     - [Tutoriais para Treino de Modelos de Linguagem](#tutoriais-para-treino-de-modelos-de-linguagem)
+- [Síntese de Fala](#síntese-de-fala)
+- [Processamento de Linguagem Natural](#processamento-de-linguagem-natural)
 
 ## Árvore de Grupos do GitLab
 <!--begin=html--> 
@@ -129,6 +133,12 @@ Localização: https://gitlab.com/fb-asr/fb-lm-tutorial
 - HTK:   https://gitlab.com/fb-asr/fb-lm-tutorial/htk-lm-train
 - SRILM: https://gitlab.com/fb-asr/fb-lm-tutorial/srilm-lm-train
 </details>
+
+## Síntese de Fala
+Localização: https://gitlab.com/fb-tts
+
+## Processamento de Linguagem Natural
+Localização: https://gitlab.com/fb-nlp
 
 __Grupo FalaBrasil (2019)__    
 __Universidade Federal do Pará (UFPA)__    
