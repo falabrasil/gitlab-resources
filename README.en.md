@@ -2,7 +2,7 @@
 
 Official location: https://gitlab.com/falabrasil
 
-## Sumário
+## Summary
 **NOTE**: subsections clickable only if expanded below (buttons "click to expand")
 
 - [Árvore de Grupos do Gitlab](#árvore-de-grupos-do-gitLab)   
@@ -149,8 +149,8 @@ Localização: https://gitlab.com/fb-nlp
     - Dicionários Fonéticos (seed lexicon)
     - Dicionário de separação silábica
 
-[Subir :top:](#recursos-disponíveis-no-gitlab-do-falabrasil)
+[Up :top:](#recursos-disponíveis-no-gitlab-do-falabrasil)
 
-__Grupo FalaBrasil (2019)__    
-__Universidade Federal do Pará (UFPA)__    
+__FalaBrasil Group (2019)__    
+__Federal University of Pará (UFPA)__    
 Cassio Batista - cassio.batista.13@gmail.com
