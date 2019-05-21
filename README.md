@@ -139,6 +139,15 @@ Localização: https://gitlab.com/fb-tts
 
 ## Processamento de Linguagem Natural
 Localização: https://gitlab.com/fb-nlp
+- Software gerador de recursos: https://gitlab.com/fb-nlp/nlp-generator
+    - G2P: conversor grafema-fonema
+    - Syll: separador silábico
+    - Stress: identificador de vogal tônica
+    - HH: desambiguador de homófonos-heterófonos :warning:
+- Recursos prontos :warning: : https://gitlab.com/fb-nlp/nlp-resources
+    - Lista de Palavras?
+    - Dicionários Fonéticos (seed lexicon)
+    - Dicionário de separação silábica
 
 [Subir :top:](#recursos-disponíveis-no-gitlab-do-falabrasil)
 
