@@ -111,9 +111,6 @@ utilizados.
 ## Reconhecimento Automático de Fala
 Localização: https://gitlab.com/fb-asr
 
-<details>
-<summary>Clique para expandir</summary>
-
 ### Recursos Prontos
 Localização: https://gitlab.com/fb-asr/fb-asr-resources
 - CMU Sphinx: https://gitlab.com/fb-asr/fb-asr-resources/cmusphinx-resources
@@ -132,7 +129,6 @@ Localização: https://gitlab.com/fb-asr/fb-am-tutorial
 Localização: https://gitlab.com/fb-asr/fb-lm-tutorial
 - HTK:   https://gitlab.com/fb-asr/fb-lm-tutorial/htk-lm-train
 - SRILM: https://gitlab.com/fb-asr/fb-lm-tutorial/srilm-lm-train
-</details>
 
 ## Síntese de Fala
 Localização: https://gitlab.com/fb-tts
