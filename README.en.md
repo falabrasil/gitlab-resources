@@ -1,6 +1,8 @@
 # Available Resources from FalaBrasils GitLab Account 
 
-Official location: https://gitlab.com/falabrasil
+:fox_face:
+We have moved to GitLab: https://gitlab.com/falabrasil
+:fox_face:
 
 ## Summary
 **NOTE**: subsections clickable only if expanded below (buttons "click to expand")
