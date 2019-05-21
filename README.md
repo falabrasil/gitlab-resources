@@ -1,8 +1,8 @@
 # Recursos Disponíveis no GitLab do FalaBrasil
 
-:fox:
+:fox_face:
 Movemos para o GitLab: https://gitlab.com/falabrasil
-:fox:
+:fox_face:
 
 **NOTE**: English version available in [README.en.md](./README.en.md)
 
