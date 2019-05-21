@@ -2,6 +2,8 @@
 
 Localização oficial: https://gitlab.com/falabrasil
 
+**NOTE**: English version available in [README.en.md](./README.en.md)
+
 ## Sumário
 **NOTA**: subseções só serão clicáveis se estiverem expandidas mais abaixo (botões "clique para expandir")
 
