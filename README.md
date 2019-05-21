@@ -8,8 +8,10 @@ Localização oficial: https://gitlab.com/falabrasil
     - [Código de Defesa do Consumidor](#código-de-defesa-do-consumidor)
     - [LaPS Mail](#laps-mail)
     - [LaPS Benchmark](#laps-benchmark)
-- [Tutoriais para Treino de Modelos Acústicos](#tutoriais-para-treino-de-modelos-acústicos)
-- [Tutoriais para Treino de Modelos de Linguagem](#tutoriais-para-treino-de-modelos-de-linguagem)
+- [Reconhecimento Automático de Fala](#reconhecimento-automático-de-fala)
+    - [Recursos Prontos](#recursos-prontos)
+    - [Tutoriais para Treino de Modelos Acústicos](#tutoriais-para-treino-de-modelos-acústicos)
+    - [Tutoriais para Treino de Modelos de Linguagem](#tutoriais-para-treino-de-modelos-de-linguagem)
 
 ## Árvore de Grupos do GitLab
 <!--begin=html--> 
@@ -101,14 +103,18 @@ isso busca-se caracterizar ambientes onde software de reconhecimento de voz são
 utilizados.
 </details>
 
-## Tutoriais para Treino de Modelos Acústicos
+## Reconhecimento Automático de Fala
+Localização: https://gitlab.com/fb-asr
+
+### Recursos Prontos
+Localização: https://gitlab.com/fb-asr/fb-asr-resources
+
+### Tutoriais para Treino de Modelos Acústicos
 Localização: https://gitlab.com/fb-asr/fb-am-tutorial
 
-## Tutoriais para Treino de Modelos de Linguagem
+### Tutoriais para Treino de Modelos de Linguagem
 Localização: https://gitlab.com/fb-asr/fb-lm-tutorial
 
-
-### Copyright?
 __Grupo FalaBrasil (2019)__    
 __Universidade Federal do Pará (UFPA)__    
 Cassio Batista - cassio.batista.13@gmail.com
