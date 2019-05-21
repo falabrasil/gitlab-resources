@@ -7,6 +7,7 @@ Localização oficial: https://gitlab.com/falabrasil
 
 - [Árvore de Grupos do Gitlab](#árvore-de-grupos-do-gitLab)   
 - [Corpora de Áudio Transcrito](#corpora-de-áudio-transcrito)
+- [Corpora de Texto](#corpora-de-texto)
     - [Constituição federal](#constituição-federal)
     - [Código de defesa do consumidor](#código-de-defesa-do-consumidor)
     - [Laps mail](#laps-mail)
@@ -107,6 +108,9 @@ ambiente não foi controlado, existindo a presença de ruído nas gravações, c
 isso busca-se caracterizar ambientes onde software de reconhecimento de voz são
 utilizados.
 </details>
+
+## Corpora de Texto
+Localização: https://gitlab.com/fb-text-corpora
 
 ## Reconhecimento Automático de Fala
 Localização: https://gitlab.com/fb-asr
