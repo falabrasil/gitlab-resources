@@ -2,6 +2,7 @@
 
 Localização oficial: https://gitlab.com/falabrasil
 
+## Sumário
 - [Árvore de Grupos do Gitlab](#árvore-de-grupos-do-gitLab)   
 - [Corpora de Áudio Transcrito](#corpora-de-áudio-transcrito)
     - [Constituição Federal](#constituição-federal)
