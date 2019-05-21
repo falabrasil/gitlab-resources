@@ -106,14 +106,22 @@ utilizados.
 ## Reconhecimento Automático de Fala
 Localização: https://gitlab.com/fb-asr
 
+<details>
+<summary>Clique para expandir</summary>
+
 ### Recursos Prontos
 Localização: https://gitlab.com/fb-asr/fb-asr-resources
+- CMU Sphinx: https://gitlab.com/fb-asr/fb-asr-resources/cmusphinx-resources
+- Kaldi:      https://gitlab.com/fb-asr/fb-asr-resources/kaldi-resources
+- HTK:        https://gitlab.com/fb-asr/fb-asr-resources/htk-resources
+- DeepSpeech: https://gitlab.com/fb-asr/fb-asr-resources/deepspeech-resources
 
 ### Tutoriais para Treino de Modelos Acústicos
 Localização: https://gitlab.com/fb-asr/fb-am-tutorial
 
 ### Tutoriais para Treino de Modelos de Linguagem
 Localização: https://gitlab.com/fb-asr/fb-lm-tutorial
+</details>
 
 __Grupo FalaBrasil (2019)__    
 __Universidade Federal do Pará (UFPA)__    
