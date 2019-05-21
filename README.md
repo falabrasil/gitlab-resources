@@ -1,6 +1,8 @@
 # Recursos Disponíveis no GitLab do FalaBrasil
 
-Localização oficial: https://gitlab.com/falabrasil
+:fox: :fox: :fox:
+Movemos para o GitLab: https://gitlab.com/falabrasil
+:fox: :fox: :fox:
 
 **NOTE**: English version available in [README.en.md](./README.en.md)
 
