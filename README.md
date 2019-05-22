@@ -20,8 +20,8 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
     - [Recursos prontos](#recursos-prontos)
     - [Tutoriais para treino de modelos acústicos](#tutoriais-para-treino-de-modelos-acústicos)
     - [Tutoriais para treino de modelos de linguagem](#tutoriais-para-treino-de-modelos-de-linguagem)
-- [Síntese de Fala](#síntese-de-fala) :scroll: :computer: :sound:
-- [Processamento de Linguagem Natural](#processamento-de-linguagem-natural)
+- [Síntese de Fala](#síntese-de-fala) :scroll: > :computer: > :sound:
+- [Processamento de Linguagem Natural](#processamento-de-linguagem-natural) :br:
 
 ## Árvore de Grupos do GitLab
 <!--begin=html--> 
