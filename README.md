@@ -25,8 +25,6 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 
 ## Árvore de Grupos do GitLab
 <!--begin=html--> 
-<details>
-<summary>Clique para expandir</summary>
 <table>
 <tbody>
 	<td>
@@ -65,7 +63,6 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 	</td>
 </tbody>
 </table>
-</details>
 <!--end=html-->  
 
 ## Corpora de Áudio Transcrito
