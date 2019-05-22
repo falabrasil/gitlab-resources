@@ -45,8 +45,8 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 					</li>
 					<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial"    >:open_file_folder:</a> <tt>fb-lm-tutorial/</tt>    
 						<ul>
-							<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/htk-am-train"     >:fox_face:</a> <tt>htk-lm-train.git</tt>   </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/strilm-am-train"  >:fox_face:</a> <tt>srilm-am-train.git</tt> </li>
+							<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/htk-lm-train"     >:fox_face:</a> <tt>htk-lm-train.git</tt>   </li>
+							<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/strilm-lm-train"  >:fox_face:</a> <tt>srilm-lm-train.git</tt> </li>
 						</ul>
 					</li>
 					<li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial"    >:open_file_folder:</a> <tt>fb-am-tutorial/</tt>    
@@ -93,8 +93,8 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 					</li>
 					<li> :leaves:                                                     Tutoriais para treino de modelos de linguagem 
 						<ul>
-							<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/htk-am-train"     >:fox_face:</a> <tt>htk-lm-train.git</tt>   </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/strilm-am-train"  >:fox_face:</a> <tt>srilm-am-train.git</tt> </li>
+							<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/htk-lm-train"     >:fox_face:</a> <tt>htk-lm-train.git</tt>   </li>
+							<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/strilm-lm-train"  >:fox_face:</a> <tt>srilm-lm-train.git</tt> </li>
 						</ul>
 					</li>
 					<li> :leaves:                                                     Tutoriais para treino de modelos acústicos    
