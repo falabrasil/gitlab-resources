@@ -1,4 +1,4 @@
-# Recursos Disponíveis no GitLab do FalaBrasil
+# Recursos Livres Disponíveis no GitLab do FalaBrasil
 
 :fox_face:
 Movemos para o GitLab: https://gitlab.com/falabrasil
@@ -153,7 +153,7 @@ Localização: https://gitlab.com/fb-nlp
     - Dicionários Fonéticos (seed lexicon)
     - Dicionário de separação silábica
 
-[Subir :top:](#recursos-disponíveis-no-gitlab-do-falabrasil)
+[Subir :top:](#recursos-livres-disponíveis-no-gitlab-do-falabrasil)
 
 __Grupo FalaBrasil (2019)__    
 __Universidade Federal do Pará (UFPA)__    
