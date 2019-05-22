@@ -30,7 +30,15 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 	<td>
 		<ul>
 			<li> <a href="https://gitlab.com/fb-text-corpora"                  >:open_file_folder:</a> <tt>fb-text-corpora/</tt>  </li>
-			<li> <a href="https://gitlab.com/fb-align"                         >:open_file_folder:</a> <tt>fb-align/</tt>         </li>
+			<li> <a href="https://gitlab.com/fb-align"                         >:open_file_folder:</a> <tt>fb-align/</tt>         
+				<ul>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-cmusphinx"    >:fox_face:</a> <tt>align-cmusphinx.git</tt>  </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-kaldi"        >:fox_face:</a> <tt>align-kaldi.git</tt>      </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-hvite"        >:fox_face:</a> <tt>align-hvite.git</tt>      </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-hdecode"      >:fox_face:</a> <tt>align-hdecode.git</tt>    </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-julius"       >:fox_face:</a> <tt>align-julius.git</tt>     </li>
+				</ul>
+			</li>
 			<li> <a href="https://gitlab.com/fb-apps"                          >:open_file_folder:</a> <tt>fb-apps/</tt>          </li>
 			<li> <a href="https://gitlab.com/fb-tts"                           >:open_file_folder:</a> <tt>fb-tts/</tt>           </li>
 			<li> <a href="https://gitlab.com/fb-asr"                           >:open_file_folder:</a> <tt>fb-asr/</tt>
