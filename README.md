@@ -21,7 +21,7 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
     - [Tutoriais para treino de modelos acústicos](#tutoriais-para-treino-de-modelos-acústicos)
     - [Tutoriais para treino de modelos de linguagem](#tutoriais-para-treino-de-modelos-de-linguagem)
 - [Síntese de Fala](#síntese-de-fala) :scroll: > :computer: > :sound:
-- [Processamento de Linguagem Natural](#processamento-de-linguagem-natural) :br:
+- [Processamento de Linguagem Natural](#processamento-de-linguagem-natural) :capital_abcd:
 
 ## Árvore de Grupos do GitLab
 <!--begin=html--> 
@@ -66,13 +66,13 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 <!--end=html-->  
 
 ## Corpora de Áudio Transcrito
-Localização: https://gitlab.com/fb-audio-corpora
+:link: : https://gitlab.com/fb-audio-corpora
 
 <details>
 <summary>Clique para expandir</summary>
 
 ### Constituição federal
-Localização: https://gitlab.com/fb-audio-corpora/constituicao16k
+:link: : https://gitlab.com/fb-audio-corpora/constituicao16k
 
 > Corpus de voz da Constituição Federal. Os arquivos de áudio foram reamostrados
 para 16.000 Hz com 16 bits. Em seguida, os arquivos foram segmentados em
@@ -82,10 +82,10 @@ masculino.  Os arquivos totalizam aproximadamente 9 horas de áudio. O ambiente
 de gravação utilizado é bastante controlado.
 
 ### Código de defesa do consumidor
-Localização: https://gitlab.com/fb-audio-corpora/codigodefesaconsumidor16k
+:link: : https://gitlab.com/fb-audio-corpora/codigodefesaconsumidor16k
 
 ### Laps mail
-Localização: https://gitlab.com/fb-audio-corpora/lapsmail16k
+:link: : https://gitlab.com/fb-audio-corpora/lapsmail16k
 
 > Corpus de voz que representa o contexto de uma aplicação de correio 
 eletrônico, utilizado para a avaliação de sistemas LVCSR para tarefas de comando
@@ -96,7 +96,7 @@ gravações foram realizadas com um microfone de alta qualidade (Shure PG30) em 
 ambiente de gravação não controlado.
 
 ### Laps benchmark
-Localização: https://gitlab.com/fb-audio-corpora/lapsbm16k
+:link: : https://gitlab.com/fb-audio-corpora/lapsbm16k
 
 > Corpus de voz utilizado para avaliação de desempenho de sistemas LVCSR.
 Atualmente composto por 700 frases, o corpus possui 35 locutores com 20 frases
@@ -111,35 +111,35 @@ utilizados.
 </details>
 
 ## Corpora de Texto
-Localização: https://gitlab.com/fb-text-corpora
+:link: : https://gitlab.com/fb-text-corpora
 
 ## Reconhecimento Automático de Fala
-Localização: https://gitlab.com/fb-asr
+:link: : https://gitlab.com/fb-asr
 
 ### Recursos prontos
-Localização: https://gitlab.com/fb-asr/fb-asr-resources
+:link: : https://gitlab.com/fb-asr/fb-asr-resources
 - CMU Sphinx: https://gitlab.com/fb-asr/fb-asr-resources/cmusphinx-resources
 - Kaldi:      https://gitlab.com/fb-asr/fb-asr-resources/kaldi-resources
 - HTK:        https://gitlab.com/fb-asr/fb-asr-resources/htk-resources
 - DeepSpeech: https://gitlab.com/fb-asr/fb-asr-resources/deepspeech-resources
 
 ### Tutoriais para treino de modelos acústicos
-Localização: https://gitlab.com/fb-asr/fb-am-tutorial
+:link: : https://gitlab.com/fb-asr/fb-am-tutorial
 - CMU Sphinx: https://gitlab.com/fb-asr/fb-am-tutorial/cmusphinx-am-train
 - Kaldi:      https://gitlab.com/fb-asr/fb-am-tutorial/kaldi-am-train
 - HTK:        https://gitlab.com/fb-asr/fb-am-tutorial/htk-am-train
 - DeepSpeech: https://gitlab.com/fb-asr/fb-am-tutorial/deepspeech-am-train
 
 ### Tutoriais para treino de modelos de linguagem
-Localização: https://gitlab.com/fb-asr/fb-lm-tutorial
+:link: : https://gitlab.com/fb-asr/fb-lm-tutorial
 - HTK:   https://gitlab.com/fb-asr/fb-lm-tutorial/htk-lm-train
 - SRILM: https://gitlab.com/fb-asr/fb-lm-tutorial/srilm-lm-train
 
 ## Síntese de Fala
-Localização: https://gitlab.com/fb-tts
+:link: : https://gitlab.com/fb-tts
 
 ## Processamento de Linguagem Natural
-Localização: https://gitlab.com/fb-nlp
+:link: : https://gitlab.com/fb-nlp
 - Software gerador de recursos: https://gitlab.com/fb-nlp/nlp-generator
     - G2P: conversor grafema-fonema
     - Syll: separador silábico
