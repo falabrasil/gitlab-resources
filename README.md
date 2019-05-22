@@ -59,12 +59,24 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 			<li> <a href="https://gitlab.com/fb-tts"           >:deciduous_tree:</a>  Síntese de Fala                               </li>
 			<li> <a href="https://gitlab.com/fb-asr"           >:deciduous_tree:</a>  Reconhecimento Automático de Fala
 				<ul>
-					<li> :leaves:                                                     Tutoriais para treino de modelos de linguagem </li>
 					<li> :leaves:                                                     Recursos prontos para ASR                     </li>
-					<li> :leaves:                                                     Tutoriais para treino de modelos acústicos    </li>
+					<li> :leaves:                                                     Tutoriais para treino de modelos de linguagem </li>
+					<li> :leaves:                                                     Tutoriais para treino de modelos acústicos    
+						<ul>
+							<li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/cmusphinx-am-train"     >:fox_face:</a> <tt>CMU Sphinx</tt>           </li>
+							<li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/kaldi-am-train"         >:fox_face:</a> <tt>Kaldi</tt>                </li>
+							<li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/htk-am-train"           >:fox_face:</a> <tt>HTK</tt>                  </li>
+							<li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/deepspeech-am-train"    >:fox_face:</a> <tt>DeepSpeech</tt>           </li>
+						</ul>
+					</li>
 				</ul>
 			</li>
-			<li> <a href="https://gitlab.com/fb-nlp"          >:deciduous_tree:</a> Processamento de Linguagem Natural              </li>
+			<li> <a href="https://gitlab.com/fb-nlp"          >:deciduous_tree:</a> Processamento de Linguagem Natural              
+				<ul>
+					<li> <a href="https://gitlab.com/fb-nlp/nlp-generator"           >:fox_face:</a> <tt>Gerador de Ferramentas NLP</tt>                 </li>
+					<li> <a href="https://gitlab.com/fb-nlp/nlp-resources"           >:fox_face:</a> <tt>Recursos Prontos para NLP</tt>                  </li>
+				</ul>
+			</li>
 			<li> <a href="https://gitlab.com/fb-audio-corpora">:deciduous_tree:</a> Corpora de Áudio Transcrito                     
 				<ul>
 					<li> <a href="https://gitlab.com/fb-audio-corpora/constituicao16k"           >:fox_face:</a> <tt>Constituição Federal</tt>            </li>
