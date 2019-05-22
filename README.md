@@ -65,7 +65,14 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 				</ul>
 			</li>
 			<li> <a href="https://gitlab.com/fb-nlp"          >:deciduous_tree:</a> Processamento de Linguagem Natural              </li>
-			<li> <a href="https://gitlab.com/fb-audio-corpora">:deciduous_tree:</a> Corpora de Áudio Transcrito                     </li>
+			<li> <a href="https://gitlab.com/fb-audio-corpora">:deciduous_tree:</a> Corpora de Áudio Transcrito                     
+				<ul>
+					<li> <a href="https://gitlab.com/fb-audio-corpora/constituicao16k"           >:fox_face:</a> <tt>Constituição Federal</tt>            </li>
+					<li> <a href="https://gitlab.com/fb-audio-corpora/codigodefesaconsumidor16k" >:fox_face:</a> <tt>Código de Defesa do Consumidor</tt>  </li>
+					<li> <a href="https://gitlab.com/fb-audio-corpora/lapsbm16k"                 >:fox_face:</a> <tt>LaPS Benchmark</tt>                  </li>
+					<li> <a href="https://gitlab.com/fb-audio-corpora/lapsmail16k"               >:fox_face:</a> <tt>LaPS Mail</tt>                       </li>
+				</ul>
+			</li>
 		</ul>
 	</td>
 </tbody>
