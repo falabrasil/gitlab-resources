@@ -16,11 +16,11 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
     - [Laps mail](#laps-mail)
     - [Laps benchmark](#laps-benchmark)
 - [Corpora de Texto](#corpora-de-texto) :book:
-- [Reconhecimento Automático de Fala](#reconhecimento-automático-de-fala) :speaking_head:
+- [Reconhecimento Automático de Fala](#reconhecimento-automático-de-fala) :speaking_head: :computer: :page_with_curl:
     - [Recursos prontos](#recursos-prontos)
     - [Tutoriais para treino de modelos acústicos](#tutoriais-para-treino-de-modelos-acústicos)
     - [Tutoriais para treino de modelos de linguagem](#tutoriais-para-treino-de-modelos-de-linguagem)
-- [Síntese de Fala](#síntese-de-fala)
+- [Síntese de Fala](#síntese-de-fala) :page_with_curl: :computer: :sound:
 - [Processamento de Linguagem Natural](#processamento-de-linguagem-natural)
 
 ## Árvore de Grupos do GitLab
