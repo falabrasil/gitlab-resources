@@ -86,7 +86,15 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 	<td>
 		<ul>
 			<li> <a href="https://gitlab.com/fb-text-corpora"  >:deciduous_tree:</a>  Corpora de Texto                              </li>
-			<li> <a href="https://gitlab.com/fb-align"         >:deciduous_tree:</a>  Alinhamento Fonético                          </li>
+			<li> <a href="https://gitlab.com/fb-align"         >:deciduous_tree:</a>  Alinhamento Fonético                          
+				<ul>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-cmusphinx"    >:fox_face:</a> CMU Sphinx  </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-kaldi"        >:fox_face:</a> Kaldi      </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-hvite"        >:fox_face:</a> HVite      </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-hdecode"      >:fox_face:</a> HDecode    </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-julius"       >:fox_face:</a> Julius     </li>
+				</ul>
+			</li>
 			<li> <a href="https://gitlab.com/fb-apps"          >:deciduous_tree:</a>  Aplicações em Fala                            </li>
 			<li> <a href="https://gitlab.com/fb-tts"           >:deciduous_tree:</a>  Síntese de Fala                               </li>
 			<li> <a href="https://gitlab.com/fb-asr"           >:deciduous_tree:</a>  Reconhecimento Automático de Fala
