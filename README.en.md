@@ -1,4 +1,4 @@
-# Available Resources from FalaBrasils GitLab Account 
+# Resources Available at FalaBrasils GitLab Account 
 
 :fox_face:
 We have moved to GitLab: https://gitlab.com/falabrasil
@@ -7,24 +7,22 @@ We have moved to GitLab: https://gitlab.com/falabrasil
 ## Summary
 **NOTE**: subsections clickable only if expanded below (buttons "click to expand")
 
-- [Árvore de Grupos do Gitlab](#árvore-de-grupos-do-gitLab)   
-- [Corpora de Áudio Transcrito](#corpora-de-áudio-transcrito)
-    - [Constituição federal](#constituição-federal)
+- [GitLab Group Tree](#árvore-de-grupos-do-gitLab)   
+- [Audio Corpora](#audio-corpora)
+    - [Federal Constitution](#federal-constitution)
     - [Código de defesa do consumidor](#código-de-defesa-do-consumidor)
     - [Laps mail](#laps-mail)
     - [Laps benchmark](#laps-benchmark)
-- [Corpora de Texto](#corpora-de-texto)
-- [Reconhecimento Automático de Fala](#reconhecimento-automático-de-fala)
+- [Text Corpora](#text-corpora)
+- [Automatic Speech Recognition](#automatic-speech-recognition)
     - [Recursos prontos](#recursos-prontos)
-    - [Tutoriais para treino de modelos acústicos](#tutoriais-para-treino-de-modelos-acústicos)
-    - [Tutoriais para treino de modelos de linguagem](#tutoriais-para-treino-de-modelos-de-linguagem)
-- [Síntese de Fala](#síntese-de-fala)
-- [Processamento de Linguagem Natural](#processamento-de-linguagem-natural)
+    - [Tutorials for training acoustic models](#tutorials-for-training-acoustic-models)
+    - [Tutorials for training language models](#tutorials-for-training-language-models)
+- [Speech Synthesis](#speech-synthesis)
+- [Natural Language Processing](#natural-language-processing)
 
 ## Árvore de Grupos do GitLab
 <!--begin=html--> 
-<details>
-<summary>Clique para expandir</summary>
 <table>
 <tbody>
 	<td>
@@ -46,33 +44,29 @@ We have moved to GitLab: https://gitlab.com/falabrasil
 	</td>
 	<td>
 		<ul>
-			<li> <a href="https://gitlab.com/fb-text-corpora"  >:deciduous_tree:</a>  :earth_americas: Corpora de Texto                              </li>
-			<li> <a href="https://gitlab.com/fb-align"         >:deciduous_tree:</a>  :earth_americas: Alinhamento Fonético                          </li>
-			<li> <a href="https://gitlab.com/fb-apps"          >:deciduous_tree:</a>  :earth_americas: Aplicações em Fala                            </li>
-			<li> <a href="https://gitlab.com/fb-tts"           >:deciduous_tree:</a>  :earth_americas: Síntese de Fala                               </li>
-			<li> <a href="https://gitlab.com/fb-asr"           >:deciduous_tree:</a>  :earth_americas: Reconhecimento Automático de Fala
+			<li> <a href="https://gitlab.com/fb-text-corpora"  >:deciduous_tree:</a>  :earth_americas: Text Corpora                                  </li>
+			<li> <a href="https://gitlab.com/fb-align"         >:deciduous_tree:</a>  :earth_americas: Phonetic Alignment                            </li>
+			<li> <a href="https://gitlab.com/fb-apps"          >:deciduous_tree:</a>  :earth_americas: Speech Applications                           </li>
+			<li> <a href="https://gitlab.com/fb-tts"           >:deciduous_tree:</a>  :earth_americas: Speech Synthesis                              </li>
+			<li> <a href="https://gitlab.com/fb-asr"           >:deciduous_tree:</a>  :earth_americas: Automatic Speech Recognition
 				<ul>
-					<li> :leaves:                                                     :earth_africa:   Tutoriais para treino de modelos de linguagem </li>
 					<li> :leaves:                                                     :earth_africa:   Recursos prontos para ASR                     </li>
-					<li> :leaves:                                                     :earth_africa:   Tutoriais para treino de modelos acústicos    </li>
+					<li> :leaves:                                                     :earth_africa:   Tutorials for training language models        </li>
+					<li> :leaves:                                                     :earth_africa:   Tutorials for training acoustic models        </li>
 				</ul>
 			</li>
-			<li> <a href="https://gitlab.com/fb-nlp"          >:deciduous_tree:</a> :earth_americas: Processamento de Linguagem Natural            </li>
-			<li> <a href="https://gitlab.com/fb-audio-corpora">:deciduous_tree:</a> :earth_americas: Corpora de Áudio Transcrito                   </li>
+			<li> <a href="https://gitlab.com/fb-nlp"          >:deciduous_tree:</a> :earth_americas: Natural Language Processing                     </li>
+			<li> <a href="https://gitlab.com/fb-audio-corpora">:deciduous_tree:</a> :earth_americas: Audio Corpora                                   </li>
 		</ul>
 	</td>
 </tbody>
 </table>
-</details>
 <!--end=html-->  
 
-## Corpora de Áudio Transcrito
+## Audio Corpora
 Localização: https://gitlab.com/fb-audio-corpora
 
-<details>
-<summary>Clique para expandir</summary>
-
-### Constituição federal
+### Federal constitution
 Localização: https://gitlab.com/fb-audio-corpora/constituicao16k
 
 > Corpus de voz da Constituição Federal. Os arquivos de áudio foram reamostrados
@@ -109,12 +103,11 @@ utilizada foi de 16.000 Hz e cada amostra foi representada com 16 bits. O
 ambiente não foi controlado, existindo a presença de ruído nas gravações, com
 isso busca-se caracterizar ambientes onde software de reconhecimento de voz são
 utilizados.
-</details>
 
-## Corpora de Texto
+## Text Corpora
 Localização: https://gitlab.com/fb-text-corpora
 
-## Reconhecimento Automático de Fala
+## Automatic Speech Recognition
 Localização: https://gitlab.com/fb-asr
 
 ### Recursos prontos
@@ -124,22 +117,22 @@ Localização: https://gitlab.com/fb-asr/fb-asr-resources
 - HTK:        https://gitlab.com/fb-asr/fb-asr-resources/htk-resources
 - DeepSpeech: https://gitlab.com/fb-asr/fb-asr-resources/deepspeech-resources
 
-### Tutoriais para treino de modelos acústicos
+### Tutorials for training acoustic models
 Localização: https://gitlab.com/fb-asr/fb-am-tutorial
 - CMU Sphinx: https://gitlab.com/fb-asr/fb-am-tutorial/cmusphinx-am-train
 - Kaldi:      https://gitlab.com/fb-asr/fb-am-tutorial/kaldi-am-train
 - HTK:        https://gitlab.com/fb-asr/fb-am-tutorial/htk-am-train
 - DeepSpeech: https://gitlab.com/fb-asr/fb-am-tutorial/deepspeech-am-train
 
-### Tutoriais para treino de modelos de linguagem
+### Tutorials for training language models
 Localização: https://gitlab.com/fb-asr/fb-lm-tutorial
 - HTK:   https://gitlab.com/fb-asr/fb-lm-tutorial/htk-lm-train
 - SRILM: https://gitlab.com/fb-asr/fb-lm-tutorial/srilm-lm-train
 
-## Síntese de Fala
+## Speech Synthesis
 Localização: https://gitlab.com/fb-tts
 
-## Processamento de Linguagem Natural
+## Natural Language Processing
 Localização: https://gitlab.com/fb-nlp
 - Software gerador de recursos: https://gitlab.com/fb-nlp/nlp-generator
     - G2P: conversor grafema-fonema
@@ -151,7 +144,7 @@ Localização: https://gitlab.com/fb-nlp
     - Dicionários Fonéticos (seed lexicon)
     - Dicionário de separação silábica
 
-[Up :top:](#recursos-disponíveis-no-gitlab-do-falabrasil)
+[Up :top:](#resources-available-at-falabrasils-gitlab-account)
 
 __FalaBrasil Group (2019)__    
 __Federal University of Pará (UFPA)__    
