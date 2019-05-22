@@ -90,7 +90,12 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 	</td>
 	<td>
 		<ul>
-			<li> <a href="https://gitlab.com/fb-text-corpora"  >:deciduous_tree:</a>  Corpora de Texto                              </li>
+			<li> <a href="https://gitlab.com/fb-text-corpora"  >:deciduous_tree:</a>  Corpora de Texto                              
+				<ul>
+					<li> <a href="https://gitlab.com/fb-textcorpora/cetenfolha"                            >:fox_face:</a> CETENFolha                             </li>
+					<li> <a href="https://gitlab.com/fb-textcorpora/wordlist"                              >:fox_face:</a> Lista de Palavras                      </li>
+				</ul>
+			</li>
 			<li> <a href="https://gitlab.com/fb-align"         >:deciduous_tree:</a>  Alinhamento Fonético                          
 				<ul>
 					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-cmusphinx"    >:fox_face:</a> CMU Sphinx  </li>
