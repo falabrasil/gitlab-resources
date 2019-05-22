@@ -83,8 +83,20 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 			<li> <a href="https://gitlab.com/fb-tts"           >:deciduous_tree:</a>  Síntese de Fala                               </li>
 			<li> <a href="https://gitlab.com/fb-asr"           >:deciduous_tree:</a>  Reconhecimento Automático de Fala
 				<ul>
-					<li> :leaves:                                                     Recursos prontos para ASR                     </li>
-					<li> :leaves:                                                     Tutoriais para treino de modelos de linguagem </li>
+					<li> :leaves:                                                     Recursos prontos para ASR                     
+						<ul>
+							<li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/cmusphinx-resources"     >:fox_face:</a> <tt>cmusphinx-resources.git</tt>  </li>
+							<li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/kaldi-resources"         >:fox_face:</a> <tt>kaldi-resources.git</tt>      </li>
+							<li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/htk-resources"           >:fox_face:</a> <tt>htk-resources.git</tt>        </li>
+							<li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/deepspeech-resources"    >:fox_face:</a> <tt>deepspeech-resources.git</tt> </li>
+						</ul>
+					</li>
+					<li> :leaves:                                                     Tutoriais para treino de modelos de linguagem 
+						<ul>
+							<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/htk-am-train"     >:fox_face:</a> <tt>htk-lm-train.git</tt>   </li>
+							<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/strilm-am-train"  >:fox_face:</a> <tt>srilm-am-train.git</tt> </li>
+						</ul>
+					</li>
 					<li> :leaves:                                                     Tutoriais para treino de modelos acústicos    
 						<ul>
 							<li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/cmusphinx-am-train"     >:fox_face:</a> CMU Sphinx                </li>
