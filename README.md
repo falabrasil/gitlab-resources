@@ -41,7 +41,14 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 				</ul>
 			</li>
 			<li> <a href="https://gitlab.com/fb-nlp"                           >:open_file_folder:</a> <tt>fb-nlp/</tt>            </li>
-			<li> <a href="https://gitlab.com/fb-audio-corpora"                 >:open_file_folder:</a> <tt>fb-audio-corpora/</tt>  </li>
+			<li> <a href="https://gitlab.com/fb-audio-corpora"                 >:open_file_folder:</a> <tt>fb-audio-corpora/</tt>  
+				<ul>
+					<li> <a href="https://gitlab.com/fb-audio-corpora/constituicao16k"           >:fox_face:</a> <tt>constituicao16k.git</tt>            </li>
+					<li> <a href="https://gitlab.com/fb-audio-corpora/codigodefesaconsumidor16k" >:fox_face:</a> <tt>codigodefesaconsumidor16k.git</tt>  </li>
+					<li> <a href="https://gitlab.com/fb-audio-corpora/lapsbm16k"                 >:fox_face:</a> <tt>lapsbm16k.git</tt>                  </li>
+					<li> <a href="https://gitlab.com/fb-audio-corpora/lapsmail16k"               >:fox_face:</a> <tt>lapsmail16k.git</tt>                </li>
+				</ul>
+			</li>
 		</ul>
 	</td>
 	<td>
