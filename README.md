@@ -9,14 +9,14 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 ## Sumário
 **NOTA**: subseções só serão clicáveis se estiverem expandidas mais abaixo (botões "clique para expandir")
 
-- [Árvore de Grupos do Gitlab](#árvore-de-grupos-do-gitLab)   
-- [Corpora de Áudio Transcrito](#corpora-de-áudio-transcrito)
+- [Árvore de Grupos do Gitlab](#árvore-de-grupos-do-gitLab) :deciduous_tree:
+- [Corpora de Áudio Transcrito](#corpora-de-áudio-transcrito) :notes:
     - [Constituição federal](#constituição-federal)
     - [Código de defesa do consumidor](#código-de-defesa-do-consumidor)
     - [Laps mail](#laps-mail)
     - [Laps benchmark](#laps-benchmark)
-- [Corpora de Texto](#corpora-de-texto)
-- [Reconhecimento Automático de Fala](#reconhecimento-automático-de-fala)
+- [Corpora de Texto](#corpora-de-texto) :book:
+- [Reconhecimento Automático de Fala](#reconhecimento-automático-de-fala) :speaking_head:
     - [Recursos prontos](#recursos-prontos)
     - [Tutoriais para treino de modelos acústicos](#tutoriais-para-treino-de-modelos-acústicos)
     - [Tutoriais para treino de modelos de linguagem](#tutoriais-para-treino-de-modelos-de-linguagem)
