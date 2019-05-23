@@ -15,6 +15,7 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
     - [Tutoriais para treino de modelos acústicos](#tutoriais-para-treino-de-modelos-acústicos)
     - [Tutoriais para treino de modelos de linguagem](#tutoriais-para-treino-de-modelos-de-linguagem)
 - [Síntese de Fala](#síntese-de-fala) :scroll: > :computer: > :sound:
+- [Alinhamento Fonético](#alinhamento-fonético) 
 - [Processamento de Linguagem Natural](#processamento-de-linguagem-natural) :capital_abcd:
 
 ## Árvore de Grupos do GitLab
@@ -149,7 +150,6 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 
 ## Corpora de Áudio Transcrito
 :link: https://gitlab.com/fb-audio-corpora
-
 - Constituição Federal:           https://gitlab.com/fb-audio-corpora/constituicao16k
 - Código de Defesa do Consumidor: https://gitlab.com/fb-audio-corpora/codigodefesaconsumidor16k
 - Laps Mail:                      https://gitlab.com/fb-audio-corpora/lapsmail16k
@@ -182,6 +182,14 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 
 ## Síntese de Fala
 :link: https://gitlab.com/fb-tts
+
+## Alinhamento Fonético
+:link: https://gitlab.com/fb-align
+- HDecode:    https://gitlab.com/fb-align/align-hdecode
+- HVite:      https://gitlab.com/fb-align/align-hvite
+- CMU Sphinx: https://gitlab.com/fb-align/align-cmusphinx
+- Kaldi:      https://gitlab.com/fb-align/align-kaldi
+- Julius:     https://gitlab.com/fb-align/align-julius
 
 ## Processamento de Linguagem Natural
 :link: https://gitlab.com/fb-nlp
