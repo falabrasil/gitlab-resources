@@ -9,10 +9,6 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 ## Sumário
 - [Árvore de Grupos do Gitlab](#árvore-de-grupos-do-gitLab) :deciduous_tree:
 - [Corpora de Áudio Transcrito](#corpora-de-áudio-transcrito) :notes:
-    - [Constituição federal](#constituição-federal)
-    - [Código de defesa do consumidor](#código-de-defesa-do-consumidor)
-    - [Laps mail](#laps-mail)
-    - [Laps benchmark](#laps-benchmark)
 - [Corpora de Texto](#corpora-de-texto) :book:
 - [Reconhecimento Automático de Fala](#reconhecimento-automático-de-fala) :speaking_head: > :computer: > :scroll:
     - [Recursos prontos](#recursos-prontos)
@@ -154,43 +150,10 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 ## Corpora de Áudio Transcrito
 :link: https://gitlab.com/fb-audio-corpora
 
-### Constituição federal
-:link: https://gitlab.com/fb-audio-corpora/constituicao16k
-
-> Corpus de voz da Constituição Federal. Os arquivos de áudio foram reamostrados
-para 16.000 Hz com 16 bits. Em seguida, os arquivos foram segmentados em
-arquivos menores, com aproximadamente 30 segundos de duração cada, e por fim
-transcritos. Atualmente, o corpus é composto por um único locutor do sexo
-masculino.  Os arquivos totalizam aproximadamente 9 horas de áudio. O ambiente
-de gravação utilizado é bastante controlado.
-
-### Código de defesa do consumidor
-:link: https://gitlab.com/fb-audio-corpora/codigodefesaconsumidor16k
-
-### Laps mail
-:link: https://gitlab.com/fb-audio-corpora/lapsmail16k
-
-> Corpus de voz que representa o contexto de uma aplicação de correio 
-eletrônico, utilizado para a avaliação de sistemas LVCSR para tarefas de comando
-e controle. Atualmente, composto por 86 sentenças (43 comando e 43 nomes
-próprios) gravados por 25 voluntários (21 homens e 4 mulheres), o que
-corresponde a 84 minutos minutos de áudio com um vocabulário de 95 palavras. As
-gravações foram realizadas com um microfone de alta qualidade (Shure PG30) em um
-ambiente de gravação não controlado.
-
-### Laps benchmark
-:link: https://gitlab.com/fb-audio-corpora/lapsbm16k
-
-> Corpus de voz utilizado para avaliação de desempenho de sistemas LVCSR.
-Atualmente composto por 700 frases, o corpus possui 35 locutores com 20 frases
-cada, sendo 25 homens e 10 mulheres, o que corresponde a aproximadamente 54
-minutos de áudio. Este corpus será expandido de forma a ter 50 locutores com a
-mesma distribuição, totalizando 1.000 frases. Todas as gravações foram
-realizadas em computadores utilizando microfones comuns. A taxa de amostragem
-utilizada foi de 16.000 Hz e cada amostra foi representada com 16 bits. O
-ambiente não foi controlado, existindo a presença de ruído nas gravações, com
-isso busca-se caracterizar ambientes onde software de reconhecimento de voz são
-utilizados.
+- Constituição Federal:           https://gitlab.com/fb-audio-corpora/constituicao16k
+- Código de Defesa do Consumidor: https://gitlab.com/fb-audio-corpora/codigodefesaconsumidor16k
+- Laps Mail:                      https://gitlab.com/fb-audio-corpora/lapsmail16k
+- Laps Benchmark:                 https://gitlab.com/fb-audio-corpora/lapsbm16k
 
 ## Corpora de Texto
 :link: https://gitlab.com/fb-text-corpora
