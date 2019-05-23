@@ -15,7 +15,7 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
     - [Tutoriais para treino de modelos acústicos](#tutoriais-para-treino-de-modelos-acústicos)
     - [Tutoriais para treino de modelos de linguagem](#tutoriais-para-treino-de-modelos-de-linguagem)
 - [Síntese de Fala](#síntese-de-fala) :scroll: > :computer: > :sound:
-- [Alinhamento Fonético](#alinhamento-fonético) 
+- [Alinhamento Fonético](#alinhamento-fonético) :straight_ruler:
 - [Processamento de Linguagem Natural](#processamento-de-linguagem-natural) :capital_abcd:
 
 ## Árvore de Grupos do GitLab
