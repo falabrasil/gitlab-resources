@@ -32,11 +32,11 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 			</li>
 			<li> <a href="https://gitlab.com/fb-align"                                                     >:open_file_folder:</a> <tt>fb-align/</tt>         
 				<ul>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-cmusphinx"                      >:fox_face:</a>         <tt>align-cmusphinx.git</tt>      </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-kaldi"                          >:fox_face:</a>         <tt>align-kaldi.git</tt>          </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-hvite"                          >:fox_face:</a>         <tt>align-hvite.git</tt>          </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-hdecode"                        >:fox_face:</a>         <tt>align-hdecode.git</tt>        </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-julius"                         >:fox_face:</a>         <tt>align-julius.git</tt>         </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/cmusphinx-align"                      >:fox_face:</a>         <tt>cmusphinx-align.git</tt>      </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/kaldi-align"                          >:fox_face:</a>         <tt>kaldi-align.git</tt>          </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/hvite-align"                          >:fox_face:</a>         <tt>hvite-align.git</tt>          </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/hdecode-align"                        >:fox_face:</a>         <tt>hdecode-align.git</tt>        </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/julius-align"                         >:fox_face:</a>         <tt>julius-align.git</tt>         </li>
 				</ul>
 			</li>
 			<li> <a href="https://gitlab.com/fb-apps"                                                      >:open_file_folder:</a> <tt>fb-apps/</tt>                 </li>
@@ -93,11 +93,11 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 			</li>
 			<li> <a href="https://gitlab.com/fb-align"         >:deciduous_tree:</a>  Alinhamento Fonético                          
 				<ul>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-cmusphinx"    >:fox_face:</a> CMU Sphinx  </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-kaldi"        >:fox_face:</a> Kaldi      </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-hvite"        >:fox_face:</a> HVite      </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-hdecode"      >:fox_face:</a> HDecode    </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/align-julius"       >:fox_face:</a> Julius     </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/cmusphinx.align"    >:fox_face:</a> CMU Sphinx  </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/kaldi.align"        >:fox_face:</a> Kaldi      </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/hvite.align"        >:fox_face:</a> HVite      </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/hdecode.align"      >:fox_face:</a> HDecode    </li>
+					<li> <a href="https://gitlab.com/fb-asr/fb-align/julius.align"       >:fox_face:</a> Julius     </li>
 				</ul>
 			</li>
 			<li> <a href="https://gitlab.com/fb-apps"          >:deciduous_tree:</a>  Aplicações em Fala                            </li>
@@ -185,11 +185,11 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 
 ## Alinhamento Fonético
 :link: https://gitlab.com/fb-align
-- HDecode:    https://gitlab.com/fb-align/align-hdecode
-- HVite:      https://gitlab.com/fb-align/align-hvite
-- CMU Sphinx: https://gitlab.com/fb-align/align-cmusphinx
-- Kaldi:      https://gitlab.com/fb-align/align-kaldi
-- Julius:     https://gitlab.com/fb-align/align-julius
+- HDecode:    https://gitlab.com/fb-align/hdecode-align
+- HVite:      https://gitlab.com/fb-align/hvite-align
+- CMU Sphinx: https://gitlab.com/fb-align/cmusphinx-align
+- Kaldi:      https://gitlab.com/fb-align/kaldi-align
+- Julius:     https://gitlab.com/fb-align/julius-align
 
 ## Processamento de Linguagem Natural
 :link: https://gitlab.com/fb-nlp
