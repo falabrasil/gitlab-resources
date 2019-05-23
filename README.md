@@ -32,11 +32,11 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 			</li>
 			<li> <a href="https://gitlab.com/fb-align"                                                     >:open_file_folder:</a> <tt>fb-align/</tt>         
 				<ul>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/cmusphinx-align"                      >:fox_face:</a>         <tt>cmusphinx-align.git</tt>      </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/kaldi-align"                          >:fox_face:</a>         <tt>kaldi-align.git</tt>          </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/hvite-align"                          >:fox_face:</a>         <tt>hvite-align.git</tt>          </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/hdecode-align"                        >:fox_face:</a>         <tt>hdecode-align.git</tt>        </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/julius-align"                         >:fox_face:</a>         <tt>julius-align.git</tt>         </li>
+					<li> <a href="https://gitlab.com/fb-align/cmusphinx-align"                             >:fox_face:</a>         <tt>cmusphinx-align.git</tt>      </li>
+					<li> <a href="https://gitlab.com/fb-align/kaldi-align"                                 >:fox_face:</a>         <tt>kaldi-align.git</tt>          </li>
+					<li> <a href="https://gitlab.com/fb-align/hvite-align"                                 >:fox_face:</a>         <tt>hvite-align.git</tt>          </li>
+					<li> <a href="https://gitlab.com/fb-align/hdecode-align"                               >:fox_face:</a>         <tt>hdecode-align.git</tt>        </li>
+					<li> <a href="https://gitlab.com/fb-align/julius-align"                                >:fox_face:</a>         <tt>julius-align.git</tt>         </li>
 				</ul>
 			</li>
 			<li> <a href="https://gitlab.com/fb-apps"                                                      >:open_file_folder:</a> <tt>fb-apps/</tt>                 </li>
@@ -93,11 +93,11 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 			</li>
 			<li> <a href="https://gitlab.com/fb-align"         >:deciduous_tree:</a>  Alinhamento Fonético                          
 				<ul>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/cmusphinx-align"    >:fox_face:</a> CMU Sphinx  </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/kaldi-align"        >:fox_face:</a> Kaldi      </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/hvite-align"        >:fox_face:</a> HVite      </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/hdecode-align"      >:fox_face:</a> HDecode    </li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-align/julius-align"       >:fox_face:</a> Julius     </li>
+					<li> <a href="https://gitlab.com/fb-align/cmusphinx-align"    >:fox_face:</a> CMU Sphinx  </li>
+					<li> <a href="https://gitlab.com/fb-align/kaldi-align"        >:fox_face:</a> Kaldi      </li>
+					<li> <a href="https://gitlab.com/fb-align/hvite-align"        >:fox_face:</a> HVite      </li>
+					<li> <a href="https://gitlab.com/fb-align/hdecode-align"      >:fox_face:</a> HDecode    </li>
+					<li> <a href="https://gitlab.com/fb-align/julius-align"       >:fox_face:</a> Julius     </li>
 				</ul>
 			</li>
 			<li> <a href="https://gitlab.com/fb-apps"          >:deciduous_tree:</a>  Aplicações em Fala                            </li>
