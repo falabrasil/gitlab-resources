@@ -1,4 +1,4 @@
-# Recursos Livres Disponíveis no GitLab do FalaBrasil
+# Recursos Livres Disponíveis no :fox_face: [GitLab](https://gitlab.com/falabrasil) :fox_face: do FalaBrasil
 
 :fox_face:
 Movemos para o GitLab: https://gitlab.com/falabrasil
@@ -232,7 +232,7 @@ utilizados.
     - Dicionários Fonéticos (seed lexicon)
     - Dicionário de separação silábica
 
-[Subir :top:](#recursos-livres-disponíveis-no-gitlab-do-falabrasil)
+[Subir :top:](#sumário)
 
 __Grupo FalaBrasil (2019)__    
 __Universidade Federal do Pará (UFPA)__    
