@@ -7,8 +7,6 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 **NOTE**: English version available in [README.en.md](./README.en.md)
 
 ## Sumário
-**NOTA**: subseções só serão clicáveis se estiverem expandidas mais abaixo (botões "clique para expandir")
-
 - [Árvore de Grupos do Gitlab](#árvore-de-grupos-do-gitLab) :deciduous_tree:
 - [Corpora de Áudio Transcrito](#corpora-de-áudio-transcrito) :notes:
     - [Constituição federal](#constituição-federal)
@@ -156,9 +154,6 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 ## Corpora de Áudio Transcrito
 :link: https://gitlab.com/fb-audio-corpora
 
-<details>
-<summary>Clique para expandir</summary>
-
 ### Constituição federal
 :link: https://gitlab.com/fb-audio-corpora/constituicao16k
 
@@ -196,7 +191,6 @@ utilizada foi de 16.000 Hz e cada amostra foi representada com 16 bits. O
 ambiente não foi controlado, existindo a presença de ruído nas gravações, com
 isso busca-se caracterizar ambientes onde software de reconhecimento de voz são
 utilizados.
-</details>
 
 ## Corpora de Texto
 :link: https://gitlab.com/fb-text-corpora
