@@ -22,128 +22,128 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 <!--begin=html--> 
 <table>
 <tbody>
-	<td>
-		<ul>
-			<li> <a href="https://gitlab.com/fb-text-corpora"                                              >:open_file_folder:</a> <tt>fb-text-corpora/</tt>         
-				<ul>
-					<li> <a href="https://gitlab.com/fb-textcorpora/cetenfolha"                            >:fox_face:</a>         <tt>cetenfolha.git</tt>      </li>
-					<li> <a href="https://gitlab.com/fb-textcorpora/wordlist"                              >:fox_face:</a>         <tt>wordlist.git</tt>         </li>
-				</ul>
-			</li>
-			<li> <a href="https://gitlab.com/fb-align"                                                     >:open_file_folder:</a> <tt>fb-align/</tt>         
-				<ul>
-					<li> <a href="https://gitlab.com/fb-align/cmusphinx-align"                             >:fox_face:</a>         <tt>cmusphinx-align.git</tt>      </li>
-					<li> <a href="https://gitlab.com/fb-align/kaldi-align"                                 >:fox_face:</a>         <tt>kaldi-align.git</tt>          </li>
-					<li> <a href="https://gitlab.com/fb-align/hvite-align"                                 >:fox_face:</a>         <tt>hvite-align.git</tt>          </li>
-					<li> <a href="https://gitlab.com/fb-align/hdecode-align"                               >:fox_face:</a>         <tt>hdecode-align.git</tt>        </li>
-					<li> <a href="https://gitlab.com/fb-align/julius-align"                                >:fox_face:</a>         <tt>julius-align.git</tt>         </li>
-				</ul>
-			</li>
-			<li> <a href="https://gitlab.com/fb-apps"                                                      >:open_file_folder:</a> <tt>fb-apps/</tt>                 </li>
-			<li> <a href="https://gitlab.com/fb-tts"                                                       >:open_file_folder:</a> <tt>fb-tts/</tt>                  </li>
-			<li> <a href="https://gitlab.com/fb-asr"                                                       >:open_file_folder:</a> <tt>fb-asr/</tt>
-				<ul>
-					<li> <a href="https://gitlab.com/fb-asr/fb-asr-resources"                              >:open_file_folder:</a> <tt>fb-asr-resources/</tt>  
-						<ul>
-							<li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/cmusphinx-resources"  >:fox_face:</a>         <tt>cmusphinx-resources.git</tt>  </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/kaldi-resources"      >:fox_face:</a>         <tt>kaldi-resources.git</tt>      </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/htk-resources"        >:fox_face:</a>         <tt>htk-resources.git</tt>        </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/deepspeech-resources" >:fox_face:</a>         <tt>deepspeech-resources.git</tt> </li>
-						</ul>
-					</li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial"                                >:open_file_folder:</a> <tt>fb-lm-tutorial/</tt>    
-						<ul>
-							<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/htk-lm-train"           >:fox_face:</a>         <tt>htk-lm-train.git</tt>         </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/strilm-lm-train"        >:fox_face:</a>         <tt>srilm-lm-train.git</tt>       </li>
-						</ul>
-					</li>
-					<li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial"                                >:open_file_folder:</a> <tt>fb-am-tutorial/</tt>    
-						<ul>
-							<li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/cmusphinx-am-train"     >:fox_face:</a>         <tt>cmusphinx-am-train.git</tt>   </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/kaldi-am-train"         >:fox_face:</a>         <tt>kaldi-am-train.git</tt>       </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/htk-am-train"           >:fox_face:</a>         <tt>htk-am-train.git</tt>         </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/deepspeech-am-train"    >:fox_face:</a>         <tt>deepspeech-am-train.git</tt>  </li>
-						</ul>
-					</li>
-				</ul>
-			</li>
-			<li> <a href="https://gitlab.com/fb-nlp"                                                       >:open_file_folder:</a> <tt>fb-nlp/</tt>            
-				<ul>
-					<li> <a href="https://gitlab.com/fb-nlp/nlp-generator"                                 >:fox_face:</a> <tt>nlp-generator.git</tt>                </li>
-					<li> <a href="https://gitlab.com/fb-nlp/nlp-resources"                                 >:fox_face:</a> <tt>nlp-resources.git</tt>                </li>
-				</ul>
-			</li>
-			<li> <a href="https://gitlab.com/fb-audio-corpora"                                             >:open_file_folder:</a> <tt>fb-audio-corpora/</tt>  
-				<ul>
-					<li> <a href="https://gitlab.com/fb-audio-corpora/constituicao16k"                     >:fox_face:</a> <tt>constituicao16k.git</tt>            </li>
-					<li> <a href="https://gitlab.com/fb-audio-corpora/codigodefesaconsumidor16k"           >:fox_face:</a> <tt>codigodefesaconsumidor16k.git</tt>  </li>
-					<li> <a href="https://gitlab.com/fb-audio-corpora/lapsbm16k"                           >:fox_face:</a> <tt>lapsbm16k.git</tt>                  </li>
-					<li> <a href="https://gitlab.com/fb-audio-corpora/lapsmail16k"                         >:fox_face:</a> <tt>lapsmail16k.git</tt>                </li>
-				</ul>
-			</li>
-		</ul>
-	</td>
-	<td>
-		<ul>
-			<li> <a href="https://gitlab.com/fb-text-corpora"  >:deciduous_tree:</a>  Corpora de Texto                              
-				<ul>
-					<li> <a href="https://gitlab.com/fb-textcorpora/cetenfolha"                            >:fox_face:</a> CETENFolha                             </li>
-					<li> <a href="https://gitlab.com/fb-textcorpora/wordlist"                              >:fox_face:</a> Lista de Palavras                      </li>
-				</ul>
-			</li>
-			<li> <a href="https://gitlab.com/fb-align"         >:deciduous_tree:</a>  Alinhamento Fonético                          
-				<ul>
-					<li> <a href="https://gitlab.com/fb-align/cmusphinx-align"    >:fox_face:</a> CMU Sphinx  </li>
-					<li> <a href="https://gitlab.com/fb-align/kaldi-align"        >:fox_face:</a> Kaldi      </li>
-					<li> <a href="https://gitlab.com/fb-align/hvite-align"        >:fox_face:</a> HVite      </li>
-					<li> <a href="https://gitlab.com/fb-align/hdecode-align"      >:fox_face:</a> HDecode    </li>
-					<li> <a href="https://gitlab.com/fb-align/julius-align"       >:fox_face:</a> Julius     </li>
-				</ul>
-			</li>
-			<li> <a href="https://gitlab.com/fb-apps"          >:deciduous_tree:</a>  Aplicações em Fala                            </li>
-			<li> <a href="https://gitlab.com/fb-tts"           >:deciduous_tree:</a>  Síntese de Fala                               </li>
-			<li> <a href="https://gitlab.com/fb-asr"           >:deciduous_tree:</a>  Reconhecimento Automático de Fala
-				<ul>
-					<li> :leaves:                                                     Recursos prontos para ASR                     
-						<ul>
-							<li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/cmusphinx-resources"     >:fox_face:</a> CMU Sphinx  </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/kaldi-resources"         >:fox_face:</a> Kaldi       </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/htk-resources"           >:fox_face:</a> HTK         </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/deepspeech-resources"    >:fox_face:</a> DeepSpeech  </li>
-						</ul>
-					</li>
-					<li> :leaves:                                                     Tutoriais para treino de modelos de linguagem 
-						<ul>
-							<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/htk-lm-train"     >:fox_face:</a> HTK   </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/strilm-lm-train"  >:fox_face:</a> SRILM </li>
-						</ul>
-					</li>
-					<li> :leaves:                                                     Tutoriais para treino de modelos acústicos    
-						<ul>
-							<li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/cmusphinx-am-train"     >:fox_face:</a> CMU Sphinx                </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/kaldi-am-train"         >:fox_face:</a> Kaldi                     </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/htk-am-train"           >:fox_face:</a> HTK                       </li>
-							<li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/deepspeech-am-train"    >:fox_face:</a> DeepSpeech                </li>
-						</ul>
-					</li>
-				</ul>
-			</li>
-			<li> <a href="https://gitlab.com/fb-nlp"          >:deciduous_tree:</a> Processamento de Linguagem Natural              
-				<ul>
-					<li> <a href="https://gitlab.com/fb-nlp/nlp-generator"           >:fox_face:</a> Gerador de Ferramentas NLP                   </li>
-					<li> <a href="https://gitlab.com/fb-nlp/nlp-resources"           >:fox_face:</a> Recursos Prontos para NLP                    </li>
-				</ul>
-			</li>
-			<li> <a href="https://gitlab.com/fb-audio-corpora">:deciduous_tree:</a> Corpora de Áudio Transcrito                     
-				<ul>
-					<li> <a href="https://gitlab.com/fb-audio-corpora/constituicao16k"           >:fox_face:</a> Constituição Federal                 </li>
-					<li> <a href="https://gitlab.com/fb-audio-corpora/codigodefesaconsumidor16k" >:fox_face:</a> Código de Defesa do Consumidor       </li>
-					<li> <a href="https://gitlab.com/fb-audio-corpora/lapsbm16k"                 >:fox_face:</a> LaPS Benchmark                       </li>
-					<li> <a href="https://gitlab.com/fb-audio-corpora/lapsmail16k"               >:fox_face:</a> LaPS Mail                            </li>
-				</ul>
-			</li>
-		</ul>
-	</td>
+  <td>
+    <ul>
+      <li> <a href="https://gitlab.com/fb-text-corpora"                                      >:open_file_folder:</a> <tt>fb-text-corpora/</tt>         
+        <ul>
+          <li> <a href="https://gitlab.com/fb-textcorpora/cetenfolha"                        >:fox_face:</a>         <tt>cetenfolha.git</tt>           </li>
+          <li> <a href="https://gitlab.com/fb-textcorpora/wordlist"                          >:fox_face:</a>         <tt>wordlist.git</tt>             </li>
+        </ul>
+      </li>
+      <li> <a href="https://gitlab.com/fb-align"                                             >:open_file_folder:</a> <tt>fb-align/</tt>         
+        <ul>
+          <li> <a href="https://gitlab.com/fb-align/cmusphinx-align"                         >:fox_face:</a>         <tt>cmusphinx-align.git</tt>      </li>
+          <li> <a href="https://gitlab.com/fb-align/kaldi-align"                             >:fox_face:</a>         <tt>kaldi-align.git</tt>          </li>
+          <li> <a href="https://gitlab.com/fb-align/hvite-align"                             >:fox_face:</a>         <tt>hvite-align.git</tt>          </li>
+          <li> <a href="https://gitlab.com/fb-align/hdecode-align"                           >:fox_face:</a>         <tt>hdecode-align.git</tt>        </li>
+          <li> <a href="https://gitlab.com/fb-align/julius-align"                            >:fox_face:</a>         <tt>julius-align.git</tt>         </li>
+        </ul>
+      </li>
+      <li> <a href="https://gitlab.com/fb-apps"                                              >:open_file_folder:</a> <tt>fb-apps/</tt>                 </li>
+      <li> <a href="https://gitlab.com/fb-tts"                                               >:open_file_folder:</a> <tt>fb-tts/</tt>                  </li>
+      <li> <a href="https://gitlab.com/fb-asr"                                               >:open_file_folder:</a> <tt>fb-asr/</tt>
+        <ul>
+          <li> <a href="https://gitlab.com/fb-asr/fb-asr-resources"                          >:open_file_folder:</a> <tt>fb-asr-resources/</tt>  
+            <ul>
+              <li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/cmusphinx-resources"  >:fox_face:</a>         <tt>cmusphinx-resources.git</tt>  </li>
+              <li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/kaldi-resources"      >:fox_face:</a>         <tt>kaldi-resources.git</tt>      </li>
+              <li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/htk-resources"        >:fox_face:</a>         <tt>htk-resources.git</tt>        </li>
+              <li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/deepspeech-resources" >:fox_face:</a>         <tt>deepspeech-resources.git</tt> </li>
+            </ul>
+          </li>
+          <li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial"                            >:open_file_folder:</a> <tt>fb-lm-tutorial/</tt>    
+            <ul>
+              <li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/htk-lm-train"           >:fox_face:</a>         <tt>htk-lm-train.git</tt>         </li>
+              <li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/strilm-lm-train"        >:fox_face:</a>         <tt>srilm-lm-train.git</tt>       </li>
+            </ul>
+          </li>
+          <li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial"                            >:open_file_folder:</a> <tt>fb-am-tutorial/</tt>    
+            <ul>
+              <li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/cmusphinx-am-train"     >:fox_face:</a>         <tt>cmusphinx-am-train.git</tt>   </li>
+              <li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/kaldi-am-train"         >:fox_face:</a>         <tt>kaldi-am-train.git</tt>       </li>
+              <li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/htk-am-train"           >:fox_face:</a>         <tt>htk-am-train.git</tt>         </li>
+              <li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/deepspeech-am-train"    >:fox_face:</a>         <tt>deepspeech-am-train.git</tt>  </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li> <a href="https://gitlab.com/fb-nlp"                                               >:open_file_folder:</a> <tt>fb-nlp/</tt>            
+        <ul>
+          <li> <a href="https://gitlab.com/fb-nlp/nlp-generator"                             >:fox_face:</a> <tt>nlp-generator.git</tt>                </li>
+          <li> <a href="https://gitlab.com/fb-nlp/nlp-resources"                             >:fox_face:</a> <tt>nlp-resources.git</tt>                </li>
+        </ul>
+      </li>
+      <li> <a href="https://gitlab.com/fb-audio-corpora"                                     >:open_file_folder:</a> <tt>fb-audio-corpora/</tt>  
+        <ul>
+          <li> <a href="https://gitlab.com/fb-audio-corpora/constituicao16k"                 >:fox_face:</a> <tt>constituicao16k.git</tt>              </li>
+          <li> <a href="https://gitlab.com/fb-audio-corpora/codigodefesaconsumidor16k"       >:fox_face:</a> <tt>codigodefesaconsumidor16k.git</tt>    </li>
+          <li> <a href="https://gitlab.com/fb-audio-corpora/lapsbm16k"                       >:fox_face:</a> <tt>lapsbm16k.git</tt>                    </li>
+          <li> <a href="https://gitlab.com/fb-audio-corpora/lapsmail16k"                     >:fox_face:</a> <tt>lapsmail16k.git</tt>                  </li>
+        </ul>
+      </li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li> <a href="https://gitlab.com/fb-text-corpora"  >:deciduous_tree:</a>  Corpora de Texto                              
+        <ul>
+          <li> <a href="https://gitlab.com/fb-textcorpora/cetenfolha"                        >:fox_face:</a> CETENFolha                                </li>
+          <li> <a href="https://gitlab.com/fb-textcorpora/wordlist"                          >:fox_face:</a> Lista de Palavras                         </li>
+        </ul>
+      </li>
+      <li> <a href="https://gitlab.com/fb-align"                                             >:deciduous_tree:</a> Alinhamento Fonético                          
+        <ul>
+          <li> <a href="https://gitlab.com/fb-align/cmusphinx-align"                         >:fox_face:</a> CMU Sphinx                                </li>
+          <li> <a href="https://gitlab.com/fb-align/kaldi-align"                             >:fox_face:</a> Kaldi                                     </li>
+          <li> <a href="https://gitlab.com/fb-align/hvite-align"                             >:fox_face:</a> HVite                                     </li>
+          <li> <a href="https://gitlab.com/fb-align/hdecode-align"                           >:fox_face:</a> HDecode                                   </li>
+          <li> <a href="https://gitlab.com/fb-align/julius-align"                            >:fox_face:</a> Julius                                    </li>
+        </ul>
+      </li>
+      <li> <a href="https://gitlab.com/fb-apps"                                              >:deciduous_tree:</a> Aplicações em Fala                  </li>
+      <li> <a href="https://gitlab.com/fb-tts"                                               >:deciduous_tree:</a> Síntese de Fala                     </li>
+      <li> <a href="https://gitlab.com/fb-asr"                                               >:deciduous_tree:</a> Reconhecimento Automático de Fala   
+        <ul>
+          <li> <a href="https://gitlab.com/fb-asr/fb-asr-resources"                          >:leaves:</a> Recursos prontos para ASR                     
+            <ul>
+              <li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/cmusphinx-resources"  >:fox_face:</a> CMU Sphinx                                </li>
+              <li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/kaldi-resources"      >:fox_face:</a> Kaldi                                     </li>
+              <li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/htk-resources"        >:fox_face:</a> HTK                                       </li>
+              <li> <a href="https://gitlab.com/fb-asr/fb-asr-resources/deepspeech-resources" >:fox_face:</a> DeepSpeech                                </li>
+            </ul>
+          </li>
+          <li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial"                            >:leaves:</a> Tutoriais para treino de modelos de linguagem 
+            <ul>
+              <li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/htk-lm-train"           >:fox_face:</a> HTK                                       </li>
+              <li> <a href="https://gitlab.com/fb-asr/fb-lm-tutorial/strilm-lm-train"        >:fox_face:</a> SRILM                                     </li>
+            </ul>
+          </li>
+          <li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial"                            >:leaves:</a> Tutoriais para treino de modelos acústicos    
+            <ul>
+              <li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/cmusphinx-am-train"     >:fox_face:</a> CMU Sphinx                                </li>
+              <li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/kaldi-am-train"         >:fox_face:</a> Kaldi                                     </li>
+              <li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/htk-am-train"           >:fox_face:</a> HTK                                       </li>
+              <li> <a href="https://gitlab.com/fb-asr/fb-am-tutorial/deepspeech-am-train"    >:fox_face:</a> DeepSpeech                                </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li> <a href="https://gitlab.com/fb-nlp"                                               >:deciduous_tree:</a> Processamento de Linguagem Natural              
+        <ul>
+          <li> <a href="https://gitlab.com/fb-nlp/nlp-generator"                             >:fox_face:</a> Gerador de Ferramentas NLP                </li>
+          <li> <a href="https://gitlab.com/fb-nlp/nlp-resources"                             >:fox_face:</a> Recursos Prontos para NLP                 </li>
+        </ul>
+      </li>
+      <li> <a href="https://gitlab.com/fb-audio-corpora"                                     >:deciduous_tree:</a> Corpora de Áudio Transcrito                     
+        <ul>
+          <li> <a href="https://gitlab.com/fb-audio-corpora/constituicao16k"                 >:fox_face:</a> Constituição Federal                      </li>
+          <li> <a href="https://gitlab.com/fb-audio-corpora/codigodefesaconsumidor16k"       >:fox_face:</a> Código de Defesa do Consumidor            </li>
+          <li> <a href="https://gitlab.com/fb-audio-corpora/lapsbm16k"                       >:fox_face:</a> LaPS Benchmark                            </li>
+          <li> <a href="https://gitlab.com/fb-audio-corpora/lapsmail16k"                     >:fox_face:</a> LaPS Mail                                 </li>
+        </ul>
+      </li>
+    </ul>
+  </td>
 </tbody>
 </table>
 <!--end=html-->  
@@ -207,5 +207,5 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 
 __Grupo FalaBrasil (2019)__    
 __Universidade Federal do Pará (UFPA)__    
-Cassio Batista - cassio.batista.13@gmail.com    
-https://ufpafalabrasil.gitlab.io/
+https://ufpafalabrasil.gitlab.io/     
+Created by @cassiobatista 
