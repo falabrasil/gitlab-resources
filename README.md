@@ -208,4 +208,4 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 __Grupo FalaBrasil (2019)__    
 __Universidade Federal do Pará (UFPA)__    
 https://ufpafalabrasil.gitlab.io/     
-Created by @cassiobatista 
+Created by [@cassiobatista](https://github.com/cassiobatista)
