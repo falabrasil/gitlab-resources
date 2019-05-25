@@ -5,7 +5,6 @@ We have moved to GitLab: https://gitlab.com/falabrasil
 :fox_face:
 
 ## Summary
-**NOTE**: subsections clickable only if expanded below (buttons "click to expand")
 
 - [GitLab Group Tree](#árvore-de-grupos-do-gitLab)   
 - [Audio Corpora](#audio-corpora)
