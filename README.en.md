@@ -1,4 +1,4 @@
-# Free Resources Available at FalaBrasils GitLab Account 
+# Free Resources Available at FalaBrasils :fox_face: GitLab :fox_face: Account 
 
 :fox_face:
 We have moved to GitLab: https://gitlab.com/falabrasil
