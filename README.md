@@ -4,7 +4,9 @@
 Movemos para o GitLab: https://gitlab.com/falabrasil
 :fox_face:
 
-**NOTE**: English version available in [README.en.md](./README.en.md)
+:uk:
+English version available in [README.en.md](./README.en.md)
+:uk:
 
 ## Sumário
 - [Árvore de Grupos do Gitlab](#árvore-de-grupos-do-gitLab) :deciduous_tree:
