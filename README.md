@@ -8,8 +8,6 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 English version available in [README.en.md](./README.en.md)
 :uk:
 
-🇦🇺🇦🇱🇧🇪🇫🇷🇩🇰🇵🇱🇺🇦🇬🇧🇺🇸
-
 ## Sumário
 - [Árvore de Grupos do Gitlab](#árvore-de-grupos-do-gitLab) :deciduous_tree:
 - [Corpora de Áudio Transcrito](#corpora-de-áudio-transcrito) :notes:
