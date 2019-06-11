@@ -27,7 +27,6 @@ We have moved to GitLab: https://gitlab.com/falabrasil
 	<td>
 		<ul>
 			<li> <a href="https://gitlab.com/fb-text-corpora"                  >:open_file_folder:</a> :earth_americas: <tt>fb-text-corpora/</tt>  </li>
-			<li> <a href="https://gitlab.com/fb-align"                         >:open_file_folder:</a> :earth_americas: <tt>fb-align/</tt>         </li>
 			<li> <a href="https://gitlab.com/fb-apps"                          >:open_file_folder:</a> :earth_americas: <tt>fb-apps/</tt>          </li>
 			<li> <a href="https://gitlab.com/fb-tts"                           >:open_file_folder:</a> :earth_americas: <tt>fb-tts/</tt>           </li>
 			<li> <a href="https://gitlab.com/fb-asr"                           >:open_file_folder:</a> :earth_americas: <tt>fb-asr/</tt>
@@ -44,7 +43,6 @@ We have moved to GitLab: https://gitlab.com/falabrasil
 	<td>
 		<ul>
 			<li> <a href="https://gitlab.com/fb-text-corpora"  >:deciduous_tree:</a>  :earth_americas: Text Corpora                                  </li>
-			<li> <a href="https://gitlab.com/fb-align"         >:deciduous_tree:</a>  :earth_americas: Phonetic Alignment                            </li>
 			<li> <a href="https://gitlab.com/fb-apps"          >:deciduous_tree:</a>  :earth_americas: Speech Applications                           </li>
 			<li> <a href="https://gitlab.com/fb-tts"           >:deciduous_tree:</a>  :earth_americas: Speech Synthesis                              </li>
 			<li> <a href="https://gitlab.com/fb-asr"           >:deciduous_tree:</a>  :earth_americas: Automatic Speech Recognition
