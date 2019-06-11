@@ -15,7 +15,6 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
     - [Tutoriais para treino de modelos acústicos](#tutoriais-para-treino-de-modelos-acústicos)
     - [Tutoriais para treino de modelos de linguagem](#tutoriais-para-treino-de-modelos-de-linguagem)
 - [Síntese de Fala](#síntese-de-fala) :scroll: > :computer: > :sound:
-- [Alinhamento Fonético](#alinhamento-fonético) :straight_ruler:
 - [Processamento de Linguagem Natural](#processamento-de-linguagem-natural) :capital_abcd:
 
 ## Árvore de Grupos do GitLab
@@ -28,15 +27,6 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
         <ul>
           <li> <a href="https://gitlab.com/fb-textcorpora/cetenfolha"                        >:fox_face:</a>         <tt>cetenfolha.git</tt>           </li>
           <li> <a href="https://gitlab.com/fb-textcorpora/wordlist"                          >:fox_face:</a>         <tt>wordlist.git</tt>             </li>
-        </ul>
-      </li>
-      <li> <a href="https://gitlab.com/fb-align"                                             >:open_file_folder:</a> <tt>fb-align/</tt>         
-        <ul>
-          <li> <a href="https://gitlab.com/fb-align/cmusphinx-align"                         >:fox_face:</a>         <tt>cmusphinx-align.git</tt>      </li>
-          <li> <a href="https://gitlab.com/fb-align/kaldi-align"                             >:fox_face:</a>         <tt>kaldi-align.git</tt>          </li>
-          <li> <a href="https://gitlab.com/fb-align/hvite-align"                             >:fox_face:</a>         <tt>hvite-align.git</tt>          </li>
-          <li> <a href="https://gitlab.com/fb-align/hdecode-align"                           >:fox_face:</a>         <tt>hdecode-align.git</tt>        </li>
-          <li> <a href="https://gitlab.com/fb-align/julius-align"                            >:fox_face:</a>         <tt>julius-align.git</tt>         </li>
         </ul>
       </li>
       <li> <a href="https://gitlab.com/fb-apps"                                              >:open_file_folder:</a> <tt>fb-apps/</tt>                 </li>
@@ -89,15 +79,6 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
         <ul>
           <li> <a href="https://gitlab.com/fb-textcorpora/cetenfolha"                        >:fox_face:</a> CETENFolha                                </li>
           <li> <a href="https://gitlab.com/fb-textcorpora/wordlist"                          >:fox_face:</a> Lista de Palavras                         </li>
-        </ul>
-      </li>
-      <li> <a href="https://gitlab.com/fb-align"                                             >:deciduous_tree:</a> Alinhamento Fonético                          
-        <ul>
-          <li> <a href="https://gitlab.com/fb-align/cmusphinx-align"                         >:fox_face:</a> CMU Sphinx                                </li>
-          <li> <a href="https://gitlab.com/fb-align/kaldi-align"                             >:fox_face:</a> Kaldi                                     </li>
-          <li> <a href="https://gitlab.com/fb-align/hvite-align"                             >:fox_face:</a> HVite                                     </li>
-          <li> <a href="https://gitlab.com/fb-align/hdecode-align"                           >:fox_face:</a> HDecode                                   </li>
-          <li> <a href="https://gitlab.com/fb-align/julius-align"                            >:fox_face:</a> Julius                                    </li>
         </ul>
       </li>
       <li> <a href="https://gitlab.com/fb-apps"                                              >:deciduous_tree:</a> Aplicações em Fala                  </li>
@@ -182,14 +163,6 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
 
 ## Síntese de Fala
 :link: https://gitlab.com/fb-tts
-
-## Alinhamento Fonético
-:link: https://gitlab.com/fb-align
-- HDecode:    https://gitlab.com/fb-align/hdecode-align
-- HVite:      https://gitlab.com/fb-align/hvite-align
-- CMU Sphinx: https://gitlab.com/fb-align/cmusphinx-align
-- Kaldi:      https://gitlab.com/fb-align/kaldi-align
-- Julius:     https://gitlab.com/fb-align/julius-align
 
 ## Processamento de Linguagem Natural
 :link: https://gitlab.com/fb-nlp
