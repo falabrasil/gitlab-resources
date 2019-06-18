@@ -181,6 +181,7 @@ English version available in [README.en.md](./README.en.md)
 [Subir :top:](#sumário)
 
 <img style="float: right;" width="64px" src="./logo_fb_github.png">
+<img style="float: right;" width="64px" src="./logo_ufpa.png">
 
 __Grupo FalaBrasil (2019)__ - https://ufpafalabrasil.gitlab.io/      
 __Universidade Federal do Pará (UFPA)__ - https://portal.ufpa.br/     
