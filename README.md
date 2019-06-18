@@ -185,7 +185,7 @@ English version available in [README.en.md](./README.en.md)
 <tbody>
 <td>
 
-![FalaBrasil](logo_fb_github_1.png "Grupo FalaBrasil") ![UFPA](logo_ufpa_1.png "UFPA")
+[![FalaBrasil](logo_fb_github_1.png)](https://ufpafalabrasil.gitlab.io/ "Grupo FalaBrasil") [![UFPA](logo_ufpa_1.png)](https://portal.ufpa.br/ "UFPA")
 
 </td>
 <td>
