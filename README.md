@@ -25,8 +25,8 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
     <ul>
       <li> <a href="https://gitlab.com/fb-text-corpora"                                      >:open_file_folder:</a> <tt>fb-text-corpora/</tt>         
         <ul>
-          <li> <a href="https://gitlab.com/fb-textcorpora/cetenfolha"                        >:fox_face:</a>         <tt>cetenfolha.git</tt>           </li>
-          <li> <a href="https://gitlab.com/fb-textcorpora/wordlist"                          >:fox_face:</a>         <tt>wordlist.git</tt>             </li>
+          <li> <a href="https://gitlab.com/fb-text-corpora/cetenfolha"                        >:fox_face:</a>         <tt>cetenfolha.git</tt>           </li>
+          <li> <a href="https://gitlab.com/fb-text-corpora/wordlist"                          >:fox_face:</a>         <tt>wordlist.git</tt>             </li>
         </ul>
       </li>
       <li> <a href="https://gitlab.com/fb-apps"                                              >:open_file_folder:</a> <tt>fb-apps/</tt>                 </li>
@@ -77,8 +77,8 @@ Movemos para o GitLab: https://gitlab.com/falabrasil
     <ul>
       <li> <a href="https://gitlab.com/fb-text-corpora"  >:deciduous_tree:</a>  Corpora de Texto                              
         <ul>
-          <li> <a href="https://gitlab.com/fb-textcorpora/cetenfolha"                        >:fox_face:</a> CETENFolha                                </li>
-          <li> <a href="https://gitlab.com/fb-textcorpora/wordlist"                          >:fox_face:</a> Lista de Palavras                         </li>
+          <li> <a href="https://gitlab.com/fb-text-corpora/cetenfolha"                        >:fox_face:</a> CETENFolha                                </li>
+          <li> <a href="https://gitlab.com/fb-text-corpora/wordlist"                          >:fox_face:</a> Lista de Palavras                         </li>
         </ul>
       </li>
       <li> <a href="https://gitlab.com/fb-apps"                                              >:deciduous_tree:</a> Aplicações em Fala                  </li>
