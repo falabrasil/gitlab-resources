@@ -169,7 +169,7 @@ English version available in [README.en.md](./README.en.md)
 ## Processamento de Linguagem Natural
 :link: https://gitlab.com/fb-nlp
 - Software gerador de recursos: https://gitlab.com/fb-nlp/nlp-generator
-    - G2P: conversor grafema-fonema
+    - G2P: conversor grafema-fonema 
     - Syll: separador silábico
     - Stress: identificador de vogal tônica
     - HH: desambiguador de homófonos-heterófonos :warning:
@@ -179,6 +179,8 @@ English version available in [README.en.md](./README.en.md)
     - Dicionário de separação silábica
 
 [Subir :top:](#sumário)
+
+<img style="float: right;" width="128px" src="./logo_fb_github.png">
 
 __Grupo FalaBrasil (2019)__ - https://ufpafalabrasil.gitlab.io/      
 __Universidade Federal do Pará (UFPA)__ - https://portal.ufpa.br/     
