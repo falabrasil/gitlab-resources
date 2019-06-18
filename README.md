@@ -185,13 +185,14 @@ English version available in [README.en.md](./README.en.md)
 <tbody>
 <td>
 
-[![FalaBrasil](logo_fb_github_1.png)](https://ufpafalabrasil.gitlab.io/ "Visitar o site do Grupo FalaBrasil") [![UFPA](logo_ufpa_1.png)](https://portal.ufpa.br/ "Visitar o site da UFPA")
+[![FalaBrasil](logo_fb_github_1.png)](https://ufpafalabrasil.gitlab.io/ "Visite o site do Grupo FalaBrasil") [![UFPA](logo_ufpa_1.png)](https://portal.ufpa.br/ "Visite o site da UFPA")
 
 </td>
 <td>
 
 __Grupo FalaBrasil (2019)__ - https://ufpafalabrasil.gitlab.io/      
 __Universidade Federal do Pará (UFPA)__ - https://portal.ufpa.br/     
+Belém, Pará, Brasil
 
 </td>
 </tbody>
