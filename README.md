@@ -180,7 +180,6 @@ English version available in [README.en.md](./README.en.md)
 
 [Subir :top:](#sumário)
 
-__Grupo FalaBrasil (2019)__    
-__Universidade Federal do Pará (UFPA)__    
-https://ufpafalabrasil.gitlab.io/     
-Created by [@cassiobatista](https://github.com/cassiobatista)
+__Grupo FalaBrasil (2019)__ - https://ufpafalabrasil.gitlab.io/      
+__Universidade Federal do Pará (UFPA)__ - https://portal.ufpa.br/     
+Cassio Batista - https://cassota.gitlab.io/
