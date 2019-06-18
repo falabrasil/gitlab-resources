@@ -184,12 +184,16 @@ English version available in [README.en.md](./README.en.md)
 <table>
 <tbody>
 <td>
+
 ![FalaBrasil](logo_fb_github_1.png "title-1") ![UFPA](logo_ufpa_1.png "title-2")
+
 </td>
 <td>
+
 __Grupo FalaBrasil (2019)__ - https://ufpafalabrasil.gitlab.io/      
 __Universidade Federal do Pará (UFPA)__ - https://portal.ufpa.br/     
 Cassio Batista - https://cassota.gitlab.io/
+
 </td>
 </tbody>
 </table>
