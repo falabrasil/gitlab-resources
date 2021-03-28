@@ -1,7 +1,7 @@
 # Recursos Livres Disponíveis no :fox_face: [GitLab](https://gitlab.com/falabrasil) :fox_face: do FalaBrasil
 
 :fox_face:
-Movemos para o GitLab: https://gitlab.com/falabrasil
+Atualmente o desenvolvimento ocorre em nosso GitLab: https://gitlab.com/falabrasil. A conta do GitHub contém apenas ponteiros para os projetos no Gitlab, os quais estão organizados em grupos.
 :fox_face:
 
 :uk:
@@ -180,21 +180,9 @@ English version available in [README.en.md](./README.en.md)
 
 [Subir :top:](#sumário)
 
-<!--begin=html--> 
-<table>
-<tbody>
-<td>
 
 [![FalaBrasil](logo_fb_github_footer.png)](https://ufpafalabrasil.gitlab.io/ "Visite o site do Grupo FalaBrasil") [![UFPA](logo_ufpa_github_footer.png)](https://portal.ufpa.br/ "Visite o site da UFPA")
 
-</td>
-<td>
-
-__Grupo FalaBrasil (2019)__ - https://ufpafalabrasil.gitlab.io/      
+__Grupo FalaBrasil (2021)__ - https://ufpafalabrasil.gitlab.io/      
 __Universidade Federal do Pará (UFPA)__ - https://portal.ufpa.br/     
-Belém, Pará, Brasil
-
-</td>
-</tbody>
-</table>
-<!--end=html-->  
+Cassio Batista - https://cassota.gitlab.io/
